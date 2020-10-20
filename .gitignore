@@ -1,4 +1,10 @@
 
 .classpath
 .project
-/target
+target
+.settings/**
+.idea
+
+*.iml
+
+overlays
