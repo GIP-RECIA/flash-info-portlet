@@ -21,4 +21,4 @@ jobs:
       with:
         java-version: 1.8
     - name: Build with Maven
-      run: mvn -B package --file pom.xml && mvn -b notice:check license:check --file pom.xml
+      run: mvn -B package --file pom.xml && mvn -B notice:check license:check --file pom.xml
