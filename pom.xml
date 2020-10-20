@@ -30,7 +30,7 @@
   <groupId>org.esco.portlet</groupId>
   <artifactId>flash-info-portlet</artifactId>
   <packaging>war</packaging>
-  <version>1.0.10</version>
+  <version>1.0.11-SNAPSHOT</version>
   <name>flash-info-portlet</name>
   <inceptionYear>2016</inceptionYear>
   <description>
@@ -41,7 +41,7 @@
     <connection>scm:git:ssh://git@github.com/GIP-RECIA/flash-info-portlet.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/GIP-RECIA/flash-info-portlet.git</developerConnection>
     <url>https://github.com/GIP-RECIA/flash-info-portlet.git</url>
-    <tag>flash-info-portlet-1.0.10</tag>
+    <tag>HEAD</tag>
   </scm>
   <distributionManagement>
     <repository>
